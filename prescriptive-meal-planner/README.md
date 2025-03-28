@@ -8,7 +8,7 @@ This project demonstrates a **Mixed Integer Programming (MIP)** optimization mod
 
 I built an MIP model that helps design a 7-day meal plan using a combination of breakfasts, lunches, dinners, and fruits while:
 
-- Satisfying **daily nutritional requirements** (calories, protein, fiber, fat, sodium, and sugar)
+- Satisfying **daily nutritional requirements** (calories, protein, carbs and fat)
 - **Minimizing total cost** across the entire week
 - Ensuring variety across meals
 - Avoiding repetition of the same food item multiple times a day
