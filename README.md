@@ -98,7 +98,6 @@ I individually scoped, built, and tested this project end-to-end:
 
 If you're working on something interesting in analytics, optimization, or tech-driven innovation — I’d love to chat!
 
-📧 [Email me](mailto:arma.rahamath@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/armashaik/)  
 💻 [More Projects](https://github.com/ArmaShaik)
 
